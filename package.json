@@ -1,0 +1,15 @@
+{
+  "name": "chit-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.1.1"
+  }
+}
